@@ -8,7 +8,3 @@ const TestComponent: React.FC = () => {
 };
 
 export default TestComponent;
-
-/* 
-xIPvidTwWb417AMC
-*/
