@@ -2695,7 +2695,7 @@ postcss@^8.4.41:
     picocolors "^1.1.1"
     source-map-js "^1.2.1"
 
-posthog-js@^1.279.3:
+posthog-js@^1.280.1:
   version "1.280.1"
   resolved "https://registry.npmjs.org/posthog-js/-/posthog-js-1.280.1.tgz#7590007164cf39a2ae6b2b837a8fc0dc139ed3c3"
   integrity sha512-ZfXaExn42aZBQg88pBzGo71sy4hmei3ubBPb7DBbsfYC3ipZ6F6xmNr3ScNdOyF8cBTZbG24SlIvntp83jTlUA==
